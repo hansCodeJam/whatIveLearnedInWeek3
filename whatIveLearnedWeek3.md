@@ -2,7 +2,20 @@
 
 Cascading Style Sheets - makes any html look prettier or ugly
 
+Linking css to your html
+```html
+<link rel="stylesheet" type="text/css" href="style.css">
+```
 
+Selectors 
+```css
+h1 {           /*selectors*/
+    font-size: 40px; /*value*/
+    color: red;
+    width: 400px;
+    visibility: hidden;
+}
+```
 
 Uggly Webby
  - https://hanscodejam.github.io/ugly-webby/
