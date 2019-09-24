@@ -42,3 +42,7 @@ const x = 7;
 const school = "Codeimmersives";
 ```
 
+Others:
+- Dev tool
+- Css diner
+
